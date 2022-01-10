@@ -1,5 +1,5 @@
 {
-  "name": "get-jwks",
+  "name": "@zuplo/get-jwks",
   "version": "5.0.0",
   "description": "Fetch utils for JWKS keys",
   "main": "src/get-jwks.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nearform/get-jwks.git"
+    "url": "git+https://github.com/zuplo/get-jwks.git"
   },
   "keywords": [
     "jwks",
@@ -40,5 +40,6 @@
     "prettier": "^2.2.1",
     "sinon": "^12.0.0",
     "tap": "^15.0.2"
-  }
+  },
+  "packageManager": "yarn@3.1.1"
 }
