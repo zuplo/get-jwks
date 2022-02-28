@@ -28,7 +28,7 @@
   "dependencies": {
     "jwk-to-pem": "^2.0.4",
     "lru-cache": "^6.0.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.2.0"
   },
   "devDependencies": {
     "eslint": "^8.10.0",
